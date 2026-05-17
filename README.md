@@ -83,6 +83,6 @@ EDA-SISMICIDAD-GLOBAL/
 | Nombre | GitHub | LinkedIn |
 |--------|--------|----------|
 | Pablo Morán | [@pablo](https://github.com/pmoranmacho-hue) | [LinkedIn](https://linkedin.com/in/pablo-morán-macho-75727a9b/) |
-| Ana Belén Escobar | [@anabelen](https://github.com/Abem-ds) | [LinkedIn](https://linkedin.com/in/usuario) |
+| Ana Belén Escobar | [@anabelen](https://github.com/Abem-ds) | [LinkedIn](www.linkedin.com/in/ana-belén-escobar-b9831a3a2) |
 
 Mayo 2026
